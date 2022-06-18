@@ -24,3 +24,4 @@ To complete the assignment, please do the following:
 - Time is money
 - きれいな花には棘がある
 - Believe those who are seeking the truth; doubt those who find it.
+- 初心忘るべからず
