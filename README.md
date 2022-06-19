@@ -30,3 +30,4 @@ What is your favorite English/Japanese word?
 9. 最高
 10. Great
 11. 好きこそものの上手なれ
+12. もみの木
