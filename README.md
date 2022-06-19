@@ -16,3 +16,4 @@
 - 😃
 - My name is Giovanni Giorgio, but everybody calls me Giorgio
 - Thanks
+- ![バジリスクタイム-バジリスク](https://user-images.githubusercontent.com/69418560/174502738-ec3a7e01-5276-4028-9531-cdfbbf36e0c6.gif)
