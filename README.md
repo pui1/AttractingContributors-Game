@@ -29,3 +29,4 @@ What is your favorite English/Japanese word?
 8. Practice
 9. 最高
 10. Great
+11. 好きこそものの上手なれ
