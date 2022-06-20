@@ -25,10 +25,10 @@ It is a 2D game and easy on the eyes. I used to play FPS games a lot, but nowada
 # List of Hobby
 1. Factorio
 2. Gran Turismo 7
-2. Sasquatch
-2. League of Legends
-2. Sky
-2. Final Fantasy XIV
-2. Minecraft
-3. Slay the Spire
+3. Sasquatch
+4. League of Legends
+5. Sky
+6. Final Fantasy XIV
+7. Minecraft
+8. Slay the Spire
 
