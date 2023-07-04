@@ -31,4 +31,5 @@ It is a 2D game and easy on the eyes. I used to play FPS games a lot, but nowada
 6. Final Fantasy XIV
 7. Minecraft
 8. Slay the Spire
+9. Legend of Zelda
 
